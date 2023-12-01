@@ -16,5 +16,6 @@ class DayTest {
 
     @Test
     fun `test Day1`() {
+        testDay(1, 55607, 55291)
     }
 }
