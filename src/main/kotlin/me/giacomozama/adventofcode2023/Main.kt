@@ -9,10 +9,10 @@ fun main() {
     println("### Advent of Code 2023 - Giacomo Zama ###")
 
     val days = arrayOf(
-          ::Day01,
-//        ::Day02,
-//        ::Day03,
-//        ::Day04,
+        ::Day01,
+        ::Day02,
+        ::Day03,
+        ::Day04,
 //        ::Day05,
 //        ::Day06,
 //        ::Day07,

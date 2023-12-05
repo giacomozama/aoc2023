@@ -18,4 +18,19 @@ class DayTest {
     fun `test Day1`() {
         testDay(1, 55607, 55291)
     }
+
+    @Test
+    fun `test Day2`() {
+        testDay(2, 2476, 54911)
+    }
+
+    @Test
+    fun `test Day3`() {
+        testDay(3, 537732, 84883664)
+    }
+
+    @Test
+    fun `test Day4`() {
+        testDay(4, 23678, 15455663)
+    }
 }
